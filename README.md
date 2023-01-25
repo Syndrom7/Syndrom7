@@ -14,7 +14,7 @@ ___
 
 <h3>Profile Visits</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/route-2/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/syndrom7/count.svg)
 
 ___
 
