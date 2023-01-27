@@ -36,7 +36,7 @@ ___
 
 ___
 
-<div align="">
+<div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=syndrom7&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true" height="200">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syndrom7&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true" height="200">
     <img alt="Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=syndrom7&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200">
